@@ -1,4 +1,7 @@
-# Starting out with GIT
+# Homework 
+Author: Marco Corsini
+
+## Instructions - Starting out with GIT
 
 * Make a clone of this repository on your local drive
     * Click on the green "Clone or Download" button
